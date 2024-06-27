@@ -1,0 +1,58 @@
+.hero {
+  height: 100vh;
+  width: 1290px;
+  background-color: #fde1ff;
+  position: relative;
+  bottom: 190px;
+  right: 7px;
+}
+
+#herop3 {
+  background-color: red;
+  color: white;
+  padding: 12px;
+  width: 170px;
+  text-align: center;
+  border-radius: 50px;
+  position: relative;
+  left: 120px;
+  bottom: 250px;
+}
+
+#img4 {
+  position: relative;
+  left: 700px;
+  bottom: 800px;
+  height: 600px;
+}
+
+#herop1 {
+  font-size: 70px;
+  position: relative;
+  left: 120px;
+  font-weight: 600;
+}
+
+#img3 {
+  height: 100px;
+  position: relative;
+  bottom: 170px;
+  left: 280px;
+}
+
+#herop2 {
+  font-size: 70px;
+  position: relative;
+  left: 120px;
+  bottom: 250px;
+  width: 500px;
+  font-weight: 600;
+}
+
+#heroh5 {
+  font-size: 18px;
+  position: relative;
+  left: 125px;
+  top: 70px;
+  font-weight: 600;
+}

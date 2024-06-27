@@ -1,0 +1,43 @@
+.footer {
+  position: relative;
+  right: 70px;
+}
+
+#img6 {
+  position: relative;
+  left: 500px;
+  top: 200px;
+  height: 100px;
+  width: 100px;
+}
+
+#footerh1 {
+  font-size: 30px;
+  position: relative;
+  left: 620px;
+  top: 106px;
+  font-weight: 500;
+}
+
+.footer_links ul li {
+  list-style: none;
+  position: relative;
+  top: 150px;
+  left: 350px;
+  display: inline;
+  padding: 20px;
+  cursor: pointer;
+}
+
+#img7 {
+  position: relative;
+  top: 180px;
+  left: 540px;
+  padding: 20px;
+}
+
+#footerp {
+  position: relative;
+  left: 500px;
+  top: 170px;
+}

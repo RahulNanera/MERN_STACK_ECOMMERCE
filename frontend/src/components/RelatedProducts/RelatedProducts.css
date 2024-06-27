@@ -1,0 +1,14 @@
+#relatedh1 {
+  position: relative;
+  left: 430px;
+  bottom: 500px;
+}
+
+.relatedContainer {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  position: relative;
+  bottom: 500px;
+  left: 70px;
+}

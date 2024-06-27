@@ -1,0 +1,45 @@
+.newlatter {
+  height: 50vh;
+  width: 1130px;
+  position: relative;
+  left: 25px;
+  top: 150px;
+  background-color: #fde1ff;
+}
+
+#newlatterh1 {
+  position: relative;
+  top: 60px;
+  left: 270px;
+  color: #171717;
+}
+
+#newslatterp {
+  position: relative;
+  left: 360px;
+  top: 60px;
+}
+
+#mail {
+  width: 450px;
+  position: relative;
+  left: 300px;
+  border: 1px solid black;
+  background-color: transparent;
+  padding: 20px;
+  border-radius: 50px;
+  top: 70px;
+}
+
+#newlatterbtn {
+  position: relative;
+  top: 70px;
+  left: 120px;
+  width: 200px;
+  height: 62px;
+  border: none;
+  border-radius: 80px;
+  background-color: black;
+  color: white;
+  cursor: pointer;
+}

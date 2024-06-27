@@ -1,0 +1,91 @@
+.loginSignup {
+  height: 100vh;
+  width: 1290px;
+  background-color: #fce3fe;
+  position: relative;
+  bottom: 180px;
+  right: 6px;
+}
+
+.loginContainer {
+  width: 580px;
+  position: relative;
+  top: 50px;
+  left: 300px;
+  height: 500px;
+  background-color: white;
+}
+
+#loginh1 {
+  position: relative;
+  top: 40px;
+  left: 40px;
+}
+
+#name {
+  padding: 15px;
+  width: 430px;
+  position: relative;
+  top: 50px;
+  left: 40px;
+  border-radius: 5px;
+  border: 1px solid #747474;
+}
+
+#email {
+  padding: 15px;
+  width: 430px;
+  position: relative;
+  top: 60px;
+  left: 40px;
+  border-radius: 5px;
+  border: 1px solid #747474;
+}
+
+#password {
+  padding: 15px;
+  width: 430px;
+  position: relative;
+  top: 70px;
+  left: 40px;
+  border-radius: 5px;
+  border: 1px solid #747474;
+}
+
+#btn4 {
+  padding: 15px;
+  width: 430px;
+  background-color: red;
+  color: white;
+  border: none;
+  cursor: pointer;
+  position: relative;
+  top: 100px;
+  left: 55px;
+  border-radius: 5px;
+}
+
+span {
+  color: #ff4141;
+  cursor: pointer;
+  position: relative;
+  left: 10px;
+}
+
+#checkbox {
+  position: relative;
+  top: 98px;
+  left: 55px;
+}
+
+#termp {
+  position: relative;
+  left: 80px;
+  top: 56px;
+}
+
+#existp {
+  position: relative;
+  left: 57px;
+  top: 96px;
+}

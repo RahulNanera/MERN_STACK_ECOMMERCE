@@ -1,0 +1,14 @@
+#popularh1 {
+  position: relative;
+  left: 510px;
+  bottom: 160px;
+}
+
+.popular_items {
+  display: flex;
+  flex-direction: row;
+  gap: 50px;
+  position: relative;
+  bottom: 100px;
+  left: 10px;
+}

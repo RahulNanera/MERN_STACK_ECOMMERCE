@@ -1,0 +1,91 @@
+h1 {
+  position: relative;
+  left: 20px;
+}
+
+.listProduct {
+  position: relative;
+  left: 300px;
+  bottom: 470px;
+}
+
+.mainContainer {
+  display: flex;
+  flex-direction: row;
+}
+
+#p {
+  position: relative;
+  left: 20px;
+}
+#t {
+  position: relative;
+  left: 100px;
+}
+
+#o {
+  position: relative;
+  left: 510px;
+}
+
+#n {
+  position: relative;
+  left: 530px;
+}
+
+#c {
+  position: relative;
+  left: 560px;
+}
+
+#r {
+  position: relative;
+  left: 590px;
+}
+
+hr {
+  position: relative;
+  top: 10px;
+  left: 10px;
+  width: 1000px;
+}
+
+#productImg {
+  height: 70px;
+  position: relative;
+  left: 20px;
+  top: 20px;
+  width: 70px;
+}
+
+#productname {
+  position: relative;
+  left: 160px;
+  width: 400px;
+  bottom: 50px;
+}
+
+#productoldPrice {
+  position: relative;
+  left: 640px;
+  bottom: 80px;
+}
+
+#productnewPrice {
+  position: relative;
+  left: 720px;
+  bottom: 105px;
+}
+
+#productcategory {
+  position: relative;
+  left: 815px;
+  bottom: 130px;
+}
+
+#removeImg {
+  position: relative;
+  left: 940px;
+  bottom: 153px;
+  cursor: pointer;
+}

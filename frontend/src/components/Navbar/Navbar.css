@@ -1,0 +1,44 @@
+#img1 {
+  position: relative;
+  left: 100px;
+  top: 20px;
+}
+
+#navp {
+  font-size: 30px;
+  position: relative;
+  left: 180px;
+  bottom: 66px;
+  font-weight: 500;
+}
+
+nav {
+  position: relative;
+  left: 330px;
+  bottom: 130px;
+}
+
+nav ul li {
+  display: inline;
+  padding: 30px;
+  cursor: pointer;
+}
+
+#btn1 {
+  padding: 10px;
+  width: 107px;
+  border-radius: 50px;
+  border: 1px solid #7a7a7a;
+  color: #515151;
+  background-color: white;
+  position: relative;
+  left: 850px;
+  bottom: 197px;
+  cursor: pointer;
+}
+
+#img2 {
+  position: relative;
+  left: 880px;
+  bottom: 180px;
+}

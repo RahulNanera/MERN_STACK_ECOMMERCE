@@ -1,0 +1,105 @@
+.addProduct {
+  position: relative;
+  left: 320px;
+  bottom: 500px;
+  height: 1000px;
+  width: 700px;
+  background-color: #f6f6f6;
+}
+
+.productTitle p {
+  opacity: 0.5;
+}
+
+.productTitle input {
+  width: 500px;
+  padding: 10px;
+  border-radius: 20px;
+  border: 2px solid #f6f6f6;
+}
+
+.productTitle {
+  position: relative;
+  top: 100px;
+  left: 87px;
+}
+
+.productOldPrice p {
+  opacity: 0.5;
+}
+
+.productOldPrice input {
+  width: 200px;
+  padding: 10px;
+  border-radius: 20px;
+  border: 2px solid #f6f6f6;
+}
+
+.productOldPrice {
+  position: relative;
+  top: 150px;
+  left: 87px;
+}
+
+.productNewPrice p {
+  opacity: 0.5;
+}
+
+.productNewPrice input {
+  width: 200px;
+  padding: 10px;
+  border-radius: 20px;
+  border: 2px solid #f6f6f6;
+}
+
+.productNewPrice {
+  position: relative;
+  top: 80px;
+  left: 377px;
+}
+
+.productCategory p {
+  opacity: 0.5;
+  position: relative;
+  top: 140px;
+  left: 95px;
+}
+
+.productCategory select {
+  border-radius: 20px;
+  padding: 10px;
+  width: 110px;
+  cursor: pointer;
+  position: relative;
+  top: 160px;
+  left: 95px;
+  border: none;
+}
+
+.productCategory {
+  position: relative;
+  bottom: 10px;
+}
+
+.productImg {
+  position: relative;
+  top: 180px;
+  left: 95px;
+}
+
+#adminAddProduct {
+  position: relative;
+  top: 200px;
+  left: 100px;
+  padding: 12px;
+  width: 120px;
+  border-radius: 10px;
+  border: none;
+  background-color: rgba(0, 0, 255, 0.6);
+  color: white;
+  cursor: pointer;
+}
+
+#adminAddProduct:hover {
+  background-color: black;
+}

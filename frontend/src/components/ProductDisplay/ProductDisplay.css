@@ -1,0 +1,115 @@
+.imgList {
+  height: 80px;
+  width: 80px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  bottom: 170px;
+  left: 100px;
+}
+
+.mainImg {
+  position: relative;
+  left: 200px;
+  bottom: 250px;
+}
+
+#mainName {
+  position: relative;
+  left: 580px;
+  width: 600px;
+  font-weight: 400;
+  bottom: 700px;
+}
+
+.rattingStars {
+  position: relative;
+  left: 580px;
+  bottom: 700px;
+}
+
+.p {
+  position: relative;
+  left: 680px;
+  bottom: 742px;
+}
+
+.prices {
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  gap: 30px;
+  position: relative;
+  bottom: 760px;
+  left: 586px;
+}
+
+#old {
+  opacity: 0.5;
+  font-size: 19px;
+  text-decoration: line-through;
+  font-weight: 600;
+}
+
+#new {
+  color: red;
+  font-size: 19px;
+  font-weight: 600;
+}
+
+#dis {
+  position: relative;
+  left: 580px;
+  width: 570px;
+  font-weight: 400;
+  bottom: 770px;
+  font-size: 13px;
+}
+
+#sel {
+  position: relative;
+  bottom: 750px;
+  left: 580px;
+  font-size: 18px;
+  opacity: 0.7;
+}
+
+.sizes {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  position: relative;
+  bottom: 740px;
+  left: 579px;
+}
+
+.sizes div {
+  text-align: center;
+  border: 1px solid #ebebeb;
+  width: 30px;
+  cursor: pointer;
+}
+#btnadd {
+  padding: 10px;
+  width: 150px;
+  font-size: 16px;
+  font-weight: 600;
+  color: white;
+  background: #ff4141;
+  border: none;
+  cursor: pointer;
+  position: relative;
+  bottom: 700px;
+  left: 580px;
+}
+
+#btnadd:active {
+  background-color: black;
+}
+
+#requestedLogin {
+  position: relative;
+  left: 580px;
+  bottom: 700px;
+}

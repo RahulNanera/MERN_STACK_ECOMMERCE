@@ -1,0 +1,22 @@
+.rev {
+  position: relative;
+  bottom: 650px;
+  left: 100px;
+  display: flex;
+  flex-direction: row;
+}
+
+.rev div {
+  border: 1px solid #d0d0d0;
+  padding: 10px;
+}
+
+#ecomP {
+  position: relative;
+  bottom: 664px;
+  left: 100px;
+  width: 900px;
+  font-size: 14px;
+  padding: 20px;
+  border: 1px solid #d0d0d0;
+}

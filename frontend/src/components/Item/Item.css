@@ -1,0 +1,29 @@
+#img5 {
+  height: 250px;
+  width: 250px;
+}
+
+.item_price {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+
+.oldPrice {
+  opacity: 0.7;
+  text-decoration: line-through;
+}
+
+#itemp {
+  width: 250px;
+  font-size: 13px;
+}
+
+.items:hover {
+  transform: scale(1.03);
+  transition: 0.6s;
+}
+
+.items {
+  cursor: pointer;
+}

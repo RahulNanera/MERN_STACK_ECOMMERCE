@@ -1,0 +1,71 @@
+.cartMain {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  position: relative;
+  bottom: 160px;
+}
+
+hr {
+  position: relative;
+  bottom: 130px;
+}
+
+.cartItem {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  position: relative;
+  bottom: 100px;
+}
+
+#proimg {
+  height: 70px;
+  width: 70px;
+  position: relative;
+  left: 20px;
+}
+
+#propr {
+  position: relative;
+  right: 30px;
+  font-size: 12px;
+  width: 200px;
+}
+
+#proprprice {
+  position: relative;
+  right: 120px;
+}
+
+#qbtn {
+  position: relative;
+  right: 95px;
+  top: 10px;
+  width: 35px;
+  height: 33px;
+  border: 2px solid #ebebeb;
+}
+
+#proprmul {
+  position: relative;
+  right: 60px;
+}
+
+#remicon {
+  position: relative;
+  right: 20px;
+  height: 30px;
+  top: 11px;
+  cursor: pointer;
+}
+
+#checkoutbtn {
+  background-color: #ff5a5a;
+  color: white;
+  border: none;
+  cursor: pointer;
+  padding: 10px;
+  position: relative;
+  left: 80px;
+}

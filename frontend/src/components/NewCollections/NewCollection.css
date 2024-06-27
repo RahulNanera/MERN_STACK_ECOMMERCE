@@ -1,0 +1,15 @@
+#newcollectionh1 {
+  position: relative;
+  left: 440px;
+  bottom: -20px;
+}
+
+.collections {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 50px;
+  position: relative;
+  top: 50px;
+  left: 10px;
+}

@@ -1,0 +1,44 @@
+.offers {
+  height: 70vh;
+  width: 1130px;
+  position: relative;
+  left: 10px;
+  background-color: #fde1ff;
+}
+
+#img8 {
+  height: 400px;
+  width: 300px;
+  position: relative;
+  left: 600px;
+  bottom: 230px;
+}
+
+#btn3 {
+  background-color: red;
+  color: white;
+  padding: 12px;
+  width: 170px;
+  text-align: center;
+  border-radius: 50px;
+  position: relative;
+  left: 100px;
+  bottom: 300px;
+  border: none;
+  cursor: pointer;
+}
+
+#offersp {
+  font-weight: 600;
+  position: relative;
+  top: 80px;
+  left: 105px;
+}
+
+#offersh1 {
+  width: 400px;
+  position: relative;
+  left: 100px;
+  top: 100px;
+  font-size: 50px;
+}

@@ -1,0 +1,33 @@
+#img9 {
+  position: relative;
+  bottom: 170px;
+  left: 50px;
+  width: 1230px;
+}
+
+.shop_products {
+  display: flex;
+  flex-direction: row;
+  gap: 3rem;
+  flex-wrap: wrap;
+  position: relative;
+  left: 20px;
+  bottom: 100px;
+}
+
+#showp {
+  position: relative;
+  left: 70px;
+  bottom: 130px;
+}
+
+#sortp {
+  position: relative;
+  left: 1000px;
+  bottom: 178px;
+  border: 2px solid black;
+  width: 90px;
+  text-align: center;
+  padding: 3px;
+  border-radius: 10px;
+}
